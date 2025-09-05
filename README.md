@@ -1,5 +1,20 @@
-- 👋 Hi, I’m @kuwshyDEV
-- 👀 I’m interested in programming and working in different languages whenever I can!
-- 🌱 I specialise in Python, Golang & Rust - (As well as Full-Stack Web Development)
-- 📫 You can reach me at @kuwshyplus on discord!
+- 👋 Hi, I’m Malacki or my alias kuwshy! 
+- ⚙️ Languages & Frameworks I work with:
+    - Python - Intermidiate Level 
+    - Golang - Intermidiate Level 
+    - Rust - Intermidiate Level
+    - JavaScript - Intermidiate Level 
+    - Vite, Next.js 
+    - SQL, MongoDB, Firebass, Amazon AWS, Google Cloud
+    - Cursor, Windsurf, Visual Studio Code
+    - Lovable, v0
+    - Grok, Claude, Google Gemini, Deepseek
+ 
+- 💫 Other Skills I have:
+    - Prompt Engineering - Intermidiate Level
+    - Digital Marketing
+    - Digital Sales & Outreach 
 
+- 🔗 https://kuwshy.com/ 
+- 🔗 https://youtube.com/kuwshydev
+- 🔗 https://x.com/kuwshydev  
