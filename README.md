@@ -16,5 +16,5 @@
     - Digital Sales & Outreach 
 
 - 🔗 https://kuwshy.com/ 
-- 🔗 https://youtube.com/kuwshydev
+- 🔗 https://youtube.com/kuwshy
 - 🔗 https://x.com/kuwshydev  
