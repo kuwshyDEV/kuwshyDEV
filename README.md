@@ -4,9 +4,10 @@
     - Golang - Intermidiate Level 
     - Rust - Intermidiate Level
     - JavaScript - Intermidiate Level 
+    - C# - Beginner Level 
     - Vite, Next.js 
     - SQL, MongoDB, Firebass, Amazon AWS, Google Cloud
-    - Cursor, Windsurf, Visual Studio Code
+    - Cursor, Windsurf, Visual Studio Code, Visual Studio
     - Lovable, v0
     - Grok, Claude, Google Gemini, Deepseek
  
