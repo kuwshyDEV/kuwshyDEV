@@ -16,7 +16,7 @@
     - Digital Marketing (SEO, Meta/Google Ads, Content Creation)
     - Digital Sales & Outreach (Email Marketing, SMS Marketing)
 
-[My Stats](https://github-readme-stats.vercel.app/api?username=kuwshyDEV&show_icons=true&theme=dark)
+![My Stats](https://github-readme-stats.vercel.app/api?username=kuwshyDEV&show_icons=true&theme=dark)
 
 - 🔗 https://kuwshy.com/ 
 - 🔗 https://youtube.com/kuwshy
