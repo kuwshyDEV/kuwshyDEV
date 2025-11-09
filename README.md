@@ -17,6 +17,7 @@
     - Digital Sales & Outreach (Email Marketing, SMS Marketing)
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=kuwshyDEV&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kuwshyDEV=anuraghazra&hide_progress=true)
 
 - 🔗 https://kuwshy.com/ 
 - 🔗 https://youtube.com/kuwshy
